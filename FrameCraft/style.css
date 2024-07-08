@@ -1,0 +1,148 @@
+*{
+    font-family: Trebuchet MS (sans-serif);
+    margin: 0px;
+
+}
+
+body{
+    background-color: rgb(7, 7, 7);
+    color: white;
+    margin-bottom: 30px;
+}
+
+.header{
+    height: 90px;
+    background-color: rgb(33, 45, 62);
+    position: fixed; 
+    top: 0;
+    width: 100%;
+}
+
+
+.navbar{
+    display: flex;
+    padding: 20px;
+    display: flex;
+    gap: 10px;
+    padding: 20px;
+    color: white;
+
+}
+
+.Name_of_company{
+    font-size: 30px;
+    font-weight: 700;
+    margin-left: 25px;
+    margin-top: 5px;
+}
+
+.menu{
+    margin-left: auto;
+    display: flex;
+    gap: 40px;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+
+/* .menu_box{
+    border: 1px solid white;
+    border-radius: 0.5rem;
+    border-left: 1px;
+    height: 90px;
+    width: 60%;
+} */
+
+.grid-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 10px 10px;
+    grid-template-areas: "grid_item1 grid_item2";
+    height: 95vh;
+    width: 95vw;
+    padding: 40px;
+    margin-top: 95px;
+
+}
+
+.grid_item1 h1{
+
+    font-size: 30px;
+    margin: 30px;
+    margin-left: 50px;
+    border-bottom: 2px solid white;
+    border-bottom: 2px solid transparent;
+    border-bottom-color: rgba(255, 255, 255, 0.596);
+    padding-bottom: 15px;
+}
+
+.grid_item1 p{
+
+    font-size: 18px;
+    margin: 30px;
+    margin-left: 50px;
+    text-align: justify;
+    color: rgba(67, 91, 126, 0.641) ;
+}
+
+
+/* .grid_item2 {
+    margin-top: 40px;
+} */
+
+.grid_item2 {
+    margin-top: 40px;
+    height: 400px;
+    padding: 15px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: .75em;
+    animation: changeImage 12s linear infinite ;
+}
+@keyframes changeImage {
+    0%{
+        background-image: url("cal_5.png");
+    }
+    33%{
+        background-image: url("cal_6.png");
+    }
+    66%{
+        background-image: url("cal_7.png");
+    }
+    100%{
+        background-image: url("cal_8.png");
+    }
+    
+    
+}
+
+.Nav_about_us{
+    color: white;
+    text-decoration: none;
+}
+
+.Nav_about_us:hover{
+    color: rgba(67, 91, 126, 0.641) ;
+}
+
+.Nav_home{
+    color: white;
+    text-decoration: none;
+}
+
+.Nav_home:hover{
+    color: rgba(67, 91, 126, 0.641) ;
+}
+
+.Nav_shop{
+    color: white;
+    text-decoration: none;
+}
+
+.Nav_shop:hover{
+    color: rgba(67, 91, 126, 0.641) ;
+}
+
+
+

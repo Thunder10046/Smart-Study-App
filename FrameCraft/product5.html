@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="product1.css" />
+    <title>Lowepro Flipside BP 300 AW III | FrameCraft</title>
+</head>
+<body>
+    <header class="header">
+      <div class="navbar">
+        <span class="Name_of_company">FrameCraft</span>
+        <div class="menu">
+          <a href="index.htm" class="Nav_home">Home</a>
+          <a href="Shop.html" class="Nav_shop">Shop</span>
+          <a href="AboutUs.html" class="Nav_about_us">About Us</a>
+          <a href="Cart.html" class="Nav_about_us">Cart</a>
+        </div>
+      </div>
+    </header>
+
+    <div class="grid-container">
+      <div class="grid_item1 box_abt">
+        <h1>Lowepro Flipside BP 300 AW III</h1>
+        <p>
+          The Lowepro Flipside BP 300 AW III is a versatile camera backpack with a 10L capacity and a padded interior.
+        </p>
+        <br>
+        <p>
+            $120
+        </p>
+        <br>
+        <button class="add_to_cart" type="button" id="add_to_cart_btn">Add to Cart</button>
+      </div>
+      <div class="grid_item2">
+        <div class="ceo box">
+            <div class="ceo_img" style="background-image: url('product_5.png');"></div>
+            <h2>Product Details</h2>
+            <p>
+              The Lowepro Flipside BP 300 AW III is a versatile camera backpack with a 10L capacity and a padded interior. It features a rear-access design, a padded and adjustable interior, and a built-in all weather cover. The backpack is compatible with a wide range of cameras and accessories, and is ideal for photographers who need a comfortable and protective backpack for their gear.
+
+            </p>
+      </div>
+    </div>
+    <script>
+        let btn = document.getElementsByClassName("add_to_cart");
+        for(let i = 0; i < btn.length; i++){
+            btn[i].addEventListener("click", function(){
+                alert("Added to Cart ! Thank you so much for Purchasing !");
+            })
+        }
+    </script>
+  </body>
+</html>

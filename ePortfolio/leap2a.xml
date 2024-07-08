@@ -1,0 +1,1109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:leap2="http://terms.leapspecs.org/"
+    xmlns:categories="http://wiki.leapspecs.org/2A/categories/"
+    xmlns:portfolio="https://teachingportfolio.curtin.edu.au/export/leap/100/1617158424/"
+    xmlns:mahara="http://wiki.mahara.org/Developer_Area/Import%2F%2FExport/LEAP_Extensions#"
+>
+    <leap2:version>http://www.leapspecs.org/2010-07/2A/</leap2:version>
+    <id>https://teachingportfolio.curtin.edu.au/export/100/1617158424</id>
+    <title>Mahara Leap2A Export for Paul Turner, 2021/03/31 10:40</title>
+    <updated>2021-03-31T10:40:24+08:00</updated>
+    <generator uri="https://mahara.org/" version="2008122400">Mahara</generator>
+    <author>
+        <name>Paul Turner</name>
+        <email>P.Turner@curtin.edu.au</email>
+        <uri>portfolio:artefactinternal</uri>
+    </author>
+
+    <entry>
+        <title>EDC495 A3 Portfolio Template</title>
+        <id>portfolio:collection55850</id>
+
+        <updated>2021-03-25T12:53:25+08:00</updated>
+        <published>2021-03-25T11:41:32+08:00</published>
+
+        <summary>This Template is for the EDC495 A3</summary>
+
+
+        <content>This Template is for the EDC495 A3</content>
+        <rdf:type rdf:resource="leap2:selection"/>
+
+        <link rel="has_part" href="portfolio:view276638"/>
+        <link rel="has_part" href="portfolio:view276639"/>
+        <link rel="has_part" href="portfolio:view276640"/>
+        <link rel="has_part" href="portfolio:view276641"/>
+        <link rel="has_part" href="portfolio:view276642"/>
+        <link rel="has_part" href="portfolio:view276643"/>
+        <link rel="has_part" href="portfolio:view276644"/>
+        <link rel="has_part" href="portfolio:view276645"/>
+        <link rel="has_part" href="portfolio:view276646"/>
+        <link rel="has_part" href="portfolio:view276647"/>
+        <link rel="has_part" href="portfolio:view276648"/>
+
+
+        <category term="Website" scheme="categories:selection_type#"/>
+
+
+
+
+    </entry>
+
+
+    <entry>
+        <title>Conclusion</title>
+        <id>portfolio:view276648</id>
+
+        <updated>2021-03-25T12:14:12+08:00</updated>
+        <published>2021-03-25T12:13:40+08:00</published>
+
+        <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></summary>
+
+   <subtitle type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></subtitle>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div><div id="user_block_1036475"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_1036475">
+    
+    
+        <div class="block-header quick-edit d-none">
+    <a class="modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-cog" title="Quick edit"></span>
+        Quick edit
+    </a>
+</div>
+
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Conclusion
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_1036475_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p>Provide some final thoughts on your project and what you have learned in the unit. </p>
+</div>
+
+
+        
+    </div>
+</div>
+</div></div></div></content>
+        <rdf:type rdf:resource="leap2:selection"/>
+
+        <link rel="is_part_of" href="portfolio:collection55850"/>
+
+
+        <category term="Webpage" scheme="categories:selection_type#"/>
+
+
+
+
+
+        <mahara:view mahara:newlayout="1" mahara:type="portfolio" mahara:ownerformat="6">
+        
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Conclusion" mahara:positionx="0" mahara:positiony="0" mahara:height="8" mahara:width="5">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;Provide some final thoughts on your project and what you have learned in the unit.&amp;nbsp;&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+        
+        </mahara:view>
+    </entry>
+
+    <entry>
+        <title>Evaluating</title>
+        <id>portfolio:view276647</id>
+
+        <updated>2021-03-25T12:13:31+08:00</updated>
+        <published>2021-03-25T12:12:38+08:00</published>
+
+        <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></summary>
+
+   <subtitle type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></subtitle>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div><div id="user_block_1036474"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_1036474">
+    
+    
+        <div class="block-header quick-edit d-none">
+    <a class="modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-cog" title="Quick edit"></span>
+        Quick edit
+    </a>
+</div>
+
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Evaluating
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_1036474_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p>Think about your vision for a successful project? Where did you meet this and what was unsuccessful? Reflect critically on your design and evaluate:</p>
+<ol><li>design ideas</li>
+<li>your processes</li>
+<li>your solution</li>
+<li>Your final product</li>
+<li><em>Note: This section is important to your overall mark so reflections should evaluate rather than describe the process. </em></li>
+</ol></div>
+
+
+        
+    </div>
+</div>
+</div></div></div></content>
+        <rdf:type rdf:resource="leap2:selection"/>
+
+        <link rel="is_part_of" href="portfolio:collection55850"/>
+
+
+        <category term="Webpage" scheme="categories:selection_type#"/>
+
+
+
+
+
+        <mahara:view mahara:newlayout="1" mahara:type="portfolio" mahara:ownerformat="6">
+        
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Evaluating" mahara:positionx="0" mahara:positiony="0" mahara:height="21" mahara:width="6">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;Think about your vision for a successful project? Where did you meet this and what was unsuccessful? Reflect critically on your design and evaluate:&lt;\/p&gt;\r\n&lt;ol&gt;\r\n&lt;li&gt;design ideas&lt;\/li&gt;\r\n&lt;li&gt;your processes&lt;\/li&gt;\r\n&lt;li&gt;your solution&lt;\/li&gt;\r\n&lt;li&gt;Your final product&lt;\/li&gt;\r\n&lt;li&gt;&lt;em&gt;Note: This section is important to your overall mark so reflections should evaluate rather than describe the process.&amp;nbsp;&lt;\/em&gt;&lt;\/li&gt;\r\n&lt;\/ol&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+        
+        </mahara:view>
+    </entry>
+
+    <entry>
+        <title>Final result</title>
+        <id>portfolio:view276646</id>
+
+        <updated>2021-03-25T12:12:26+08:00</updated>
+        <published>2021-03-25T12:11:39+08:00</published>
+
+        <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></summary>
+
+   <subtitle type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></subtitle>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div><div id="user_block_1036473"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_1036473">
+    
+    
+        <div class="block-header quick-edit d-none">
+    <a class="modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-cog" title="Quick edit"></span>
+        Quick edit
+    </a>
+</div>
+
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Final result
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_1036473_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p>Present your final result (Assignment 2). You may include the video of your presentation or a brief overview of your final product. </p>
+</div>
+
+
+        
+    </div>
+</div>
+</div></div></div></content>
+        <rdf:type rdf:resource="leap2:selection"/>
+
+        <link rel="is_part_of" href="portfolio:collection55850"/>
+
+
+        <category term="Webpage" scheme="categories:selection_type#"/>
+
+
+
+
+
+        <mahara:view mahara:newlayout="1" mahara:type="portfolio" mahara:ownerformat="6">
+        
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Final result" mahara:positionx="0" mahara:positiony="0" mahara:height="12" mahara:width="6">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;Present your final result (Assignment 2). You may include the video of your presentation or a brief overview of your final product.&amp;nbsp;&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+        
+        </mahara:view>
+    </entry>
+
+    <entry>
+        <title>Collaborating and/or Managing (Optional). </title>
+        <id>portfolio:view276645</id>
+
+        <updated>2021-03-25T12:11:24+08:00</updated>
+        <published>2021-03-25T12:10:51+08:00</published>
+
+        <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></summary>
+
+   <subtitle type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></subtitle>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div><div id="user_block_1036472"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_1036472">
+    
+    
+        <div class="block-header quick-edit d-none">
+    <a class="modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-cog" title="Quick edit"></span>
+        Quick edit
+    </a>
+</div>
+
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Collaborating and/or Managing (Optional). 
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_1036472_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p>Did you collaborate with others? How did you manage or coordinate the collection of materials and tools? </p>
+</div>
+
+
+        
+    </div>
+</div>
+</div></div></div></content>
+        <rdf:type rdf:resource="leap2:selection"/>
+
+        <link rel="is_part_of" href="portfolio:collection55850"/>
+
+
+        <category term="Webpage" scheme="categories:selection_type#"/>
+
+
+
+
+
+        <mahara:view mahara:newlayout="1" mahara:type="portfolio" mahara:ownerformat="6">
+        
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Collaborating and/or Managing (Optional). " mahara:positionx="0" mahara:positiony="0" mahara:height="10" mahara:width="7">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;Did you collaborate with others? How did you manage or coordinate the collection of materials and tools?&amp;nbsp;&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+        
+        </mahara:view>
+    </entry>
+
+    <entry>
+        <title>Producing and Implementing</title>
+        <id>portfolio:view276644</id>
+
+        <updated>2021-03-25T12:10:35+08:00</updated>
+        <published>2021-03-25T12:10:00+08:00</published>
+
+        <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></summary>
+
+   <subtitle type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></subtitle>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div><div id="user_block_1036471"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_1036471">
+    
+    
+        <div class="block-header quick-edit d-none">
+    <a class="modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-cog" title="Quick edit"></span>
+        Quick edit
+    </a>
+</div>
+
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Producing and Implementing
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_1036471_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p>How did you plan to create your solution? How did you implement this plan? Include all challenges, failures, and re-designs with annotations</p>
+</div>
+
+
+        
+    </div>
+</div>
+</div></div></div></content>
+        <rdf:type rdf:resource="leap2:selection"/>
+
+        <link rel="is_part_of" href="portfolio:collection55850"/>
+
+
+        <category term="Webpage" scheme="categories:selection_type#"/>
+
+
+
+
+
+        <mahara:view mahara:newlayout="1" mahara:type="portfolio" mahara:ownerformat="6">
+        
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Producing and Implementing" mahara:positionx="0" mahara:positiony="0" mahara:height="9" mahara:width="4">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;How did you plan to create your solution? How did you implement this plan? Include all challenges, failures, and re-designs with annotations&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+        
+        </mahara:view>
+    </entry>
+
+    <entry>
+        <title>Generating and Designing</title>
+        <id>portfolio:view276643</id>
+
+        <updated>2021-03-25T12:09:48+08:00</updated>
+        <published>2021-03-25T12:00:13+08:00</published>
+
+        <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></summary>
+
+   <subtitle type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></subtitle>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div><div id="user_block_1036468"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_1036468">
+    
+    
+        <div class="block-header quick-edit d-none">
+    <a class="modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-cog" title="Quick edit"></span>
+        Quick edit
+    </a>
+</div>
+
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Generating and Designing
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_1036468_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p>This section should go into detail on your ideas from generation to design with annotated evidence. Remember this includes sketches, prototypes or small-scale attempts.</p>
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_1036470"><div class="bt-image gridstackblock card card-secondary clearfix" id="user_blockinstance_1036470">
+    
+        <div class="block-header d-none">
+    
+        <a class="commentlink" href="#" title="">
+        
+            
+                <span class="icon icon-plus" title="Comments and details"></span>
+                Add comment
+                <span class="bh-margin-left icon icon-search-plus"></span>
+                Details
+            
+        
+        </a>
+    
+</div>
+
+    
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Example Image
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_1036470_target">
+        
+        
+            <div class="imageblock card-body">
+    <div class="image">
+        
+        <a class="modal_link" href="#">
+            <img rel="leap2:has_part" href="portfolio:artefact244855" alt="add_photo_here_custom_lapel_pin-rb625e03288644f459162b68ec4549f89_zwdkn_540.jpg" title="add_photo_here_custom_lapel_pin-rb625e03288644f459162b68ec4549f89_zwdkn_540.jpg" /></a>
+        
+    </div>
+
+    
+</div>
+
+        
+    </div>
+</div>
+</div></div></div></content>
+        <rdf:type rdf:resource="leap2:selection"/>
+
+        <link rel="is_part_of" href="portfolio:collection55850"/>
+        <link rel="leap2:has_part" href="portfolio:artefact244855"/>
+
+
+        <category term="Webpage" scheme="categories:selection_type#"/>
+
+
+
+
+
+        <mahara:view mahara:newlayout="1" mahara:type="portfolio" mahara:ownerformat="6">
+        
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Generating and Designing" mahara:positionx="0" mahara:positiony="0" mahara:height="11" mahara:width="4">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;This section should go into detail on your ideas from generation to design with annotated evidence. Remember this includes sketches, prototypes or small-scale attempts.&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="image" mahara:blocktitle="Example Image" mahara:positionx="0" mahara:positiony="11" mahara:height="42" mahara:width="5">
+                
+                    
+                    <mahara:artefactid>[&quot;portfolio:artefact244855&quot;]</mahara:artefactid>
+                    
+                
+                    
+                    <mahara:showdescription>[false]</mahara:showdescription>
+                    
+                
+                    
+                    <mahara:width>[&quot;&quot;]</mahara:width>
+                    
+                
+                    
+                    <mahara:retractable>[0]</mahara:retractable>
+                    
+                
+                    
+                    <mahara:retractedonload>[0]</mahara:retractedonload>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+        
+        </mahara:view>
+    </entry>
+
+    <entry>
+        <title>Investigating and Defining</title>
+        <id>portfolio:view276642</id>
+
+        <updated>2021-03-25T11:59:56+08:00</updated>
+        <published>2021-03-25T11:59:27+08:00</published>
+
+        <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></summary>
+
+   <subtitle type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></subtitle>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div><div id="user_block_1036467"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_1036467">
+    
+    
+        <div class="block-header quick-edit d-none">
+    <a class="modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-cog" title="Quick edit"></span>
+        Quick edit
+    </a>
+</div>
+
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Investigating and Defining
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_1036467_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+How did you identify a problem to solve? What defines the problem and how did you investigate? Provide evidence of this process and include references. You can choose to include images, videos etc or just text. 
+</div>
+
+
+        
+    </div>
+</div>
+</div></div></div></content>
+        <rdf:type rdf:resource="leap2:selection"/>
+
+        <link rel="is_part_of" href="portfolio:collection55850"/>
+
+
+        <category term="Webpage" scheme="categories:selection_type#"/>
+
+
+
+
+
+        <mahara:view mahara:newlayout="1" mahara:type="portfolio" mahara:ownerformat="6">
+        
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Investigating and Defining" mahara:positionx="0" mahara:positiony="0" mahara:height="11" mahara:width="4">
+                
+                    
+                    <mahara:text>[&quot;How did you identify a problem to solve? What defines the problem and how did you investigate? Provide evidence of this process and include references. You can choose to include images, videos etc or just text. &quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+        
+        </mahara:view>
+    </entry>
+
+    <entry>
+        <title>Design Process</title>
+        <id>portfolio:view276641</id>
+
+        <updated>2021-03-25T11:58:30+08:00</updated>
+        <published>2021-03-25T11:57:58+08:00</published>
+
+        <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></summary>
+
+   <subtitle type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></subtitle>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div><div id="user_block_1036466"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_1036466">
+    
+    
+        <div class="block-header quick-edit d-none">
+    <a class="modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-cog" title="Quick edit"></span>
+        Quick edit
+    </a>
+</div>
+
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Design Process
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_1036466_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p>This relates to the Process and Production skills strand in the Design and Technology curriculum. Provide evidence in each section </p>
+</div>
+
+
+        
+    </div>
+</div>
+</div></div></div></content>
+        <rdf:type rdf:resource="leap2:selection"/>
+
+        <link rel="is_part_of" href="portfolio:collection55850"/>
+
+
+        <category term="Webpage" scheme="categories:selection_type#"/>
+
+
+
+
+
+        <mahara:view mahara:newlayout="1" mahara:type="portfolio" mahara:ownerformat="6">
+        
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Design Process" mahara:positionx="0" mahara:positiony="0" mahara:height="9" mahara:width="4">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;This relates to the Process and Production skills strand in the Design and Technology curriculum. Provide evidence in each section&amp;nbsp;&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+        
+        </mahara:view>
+    </entry>
+
+    <entry>
+        <title>Curriculum Links to design</title>
+        <id>portfolio:view276640</id>
+
+        <updated>2021-03-25T11:56:14+08:00</updated>
+        <published>2021-03-25T11:55:43+08:00</published>
+
+        <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></summary>
+
+   <subtitle type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></subtitle>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div><div id="user_block_1036465"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_1036465">
+    
+    
+        <div class="block-header quick-edit d-none">
+    <a class="modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-cog" title="Quick edit"></span>
+        Quick edit
+    </a>
+</div>
+
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Curriculum Links to design
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_1036465_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p>This section links your project specifically to the Design and Technology curriculum. Provide the curriculum descriptions related to your project below.</p>
+</div>
+
+
+        
+    </div>
+</div>
+</div></div></div></content>
+        <rdf:type rdf:resource="leap2:selection"/>
+
+        <link rel="is_part_of" href="portfolio:collection55850"/>
+
+
+        <category term="Webpage" scheme="categories:selection_type#"/>
+
+
+
+
+
+        <mahara:view mahara:newlayout="1" mahara:type="portfolio" mahara:ownerformat="6">
+        
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Curriculum Links to design" mahara:positionx="0" mahara:positiony="0" mahara:height="12" mahara:width="5">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;This section links your project specifically to the Design and Technology curriculum. Provide the curriculum descriptions related to your project below.&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+        
+        </mahara:view>
+    </entry>
+
+    <entry>
+        <title>Technology context</title>
+        <id>portfolio:view276639</id>
+
+        <updated>2021-03-25T11:47:47+08:00</updated>
+        <published>2021-03-25T11:46:39+08:00</published>
+
+        <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></summary>
+
+   <subtitle type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></subtitle>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div><div id="user_block_1036458"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_1036458">
+    
+    
+        <div class="block-header quick-edit d-none">
+    <a class="modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-cog" title="Quick edit"></span>
+        Quick edit
+    </a>
+</div>
+
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Technology context
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_1036458_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p>Technology context</p>
+<ul><li>This section relates to the Knowledge and Understanding strand of the Design and Technology curriculum. Provide a brief discussion the scope of your project such as
+<ul><li>Target year level</li>
+<li>Which technology sub-strand (Engineering systems, food and fibre production, food specialisations, materials and technologies specialisations)</li>
+<li>Identified problem to solve</li>
+</ul></li>
+</ul></div>
+
+
+        
+    </div>
+</div>
+</div></div></div></content>
+        <rdf:type rdf:resource="leap2:selection"/>
+
+        <link rel="is_part_of" href="portfolio:collection55850"/>
+
+
+        <category term="Webpage" scheme="categories:selection_type#"/>
+
+
+
+
+
+        <mahara:view mahara:newlayout="1" mahara:type="portfolio" mahara:ownerformat="6">
+        
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Technology context" mahara:positionx="0" mahara:positiony="0" mahara:height="27" mahara:width="5">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;Technology context&lt;\/p&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;This section relates to the Knowledge and Understanding strand of the Design and Technology curriculum. Provide a brief discussion the scope of your project such as\r\n&lt;ul&gt;\r\n&lt;li&gt;Target year level&lt;\/li&gt;\r\n&lt;li&gt;Which technology sub-strand (Engineering systems, food and fibre production, food specialisations, materials and technologies specialisations)&lt;\/li&gt;\r\n&lt;li&gt;Identified problem to solve&lt;\/li&gt;\r\n&lt;\/ul&gt;\r\n&lt;\/li&gt;\r\n&lt;\/ul&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+        
+        </mahara:view>
+    </entry>
+
+    <entry>
+        <title>Overview/Cover Page</title>
+        <id>portfolio:view276638</id>
+
+        <updated>2021-03-25T13:18:37+08:00</updated>
+        <published>2021-03-25T11:42:31+08:00</published>
+
+        <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></summary>
+
+   <subtitle type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></subtitle>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div><div id="user_block_1036454"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_1036454">
+    
+    
+        <div class="block-header quick-edit d-none">
+    <a class="modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-cog" title="Quick edit"></span>
+        Quick edit
+    </a>
+</div>
+
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Information
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_1036454_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p>This assignment is structured according the the ACARA Design and Technology scope and sequence. Please see [link: <a href="https://docs.acara.edu.au/resources/Design_and_Technologies_-_Sequence_of_content.pdf">https://docs.acara.edu.au/resources/Design_and_Technologies_-_Sequence_of_content.pdf</a></p>
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_1036479"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_1036479">
+    
+    
+        <div class="block-header quick-edit d-none">
+    <a class="modal_link list-group-heading" href="#" title="Quick edit">
+        <span class="icon icon-cog" title="Quick edit"></span>
+        Quick edit
+    </a>
+</div>
+
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Placeholder
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_1036479_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p>PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT </p>
+</div>
+
+
+        
+    </div>
+</div>
+</div></div></div></content>
+        <rdf:type rdf:resource="leap2:selection"/>
+
+        <link rel="is_part_of" href="portfolio:collection55850"/>
+
+
+        <category term="Webpage" scheme="categories:selection_type#"/>
+
+
+
+
+
+        <mahara:view mahara:newlayout="1" mahara:type="portfolio" mahara:ownerformat="6">
+        
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Information" mahara:positionx="0" mahara:positiony="0" mahara:height="12" mahara:width="4">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;This assignment is structured according the the ACARA Design and Technology scope and sequence. Please see [link:&amp;nbsp;&lt;a href=\&quot;https:\/\/docs.acara.edu.au\/resources\/Design_and_Technologies_-_Sequence_of_content.pdf\&quot;&gt;https:\/\/docs.acara.edu.au\/resources\/Design_and_Technologies_-_Sequence_of_content.pdf&lt;\/a&gt;&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Placeholder" mahara:positionx="0" mahara:positiony="12" mahara:height="24" mahara:width="11">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT PLACEHOLDER TEXT&amp;nbsp;&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+        
+        </mahara:view>
+    </entry>
+
+    <entry>
+        <title>add_photo_here_custom_lapel_pin-rb625e03288644f459162b68ec4549f89_zwdkn_540.jpg</title>
+        <id>portfolio:artefact244855</id>
+
+        <updated>2021-03-25T12:09:30+08:00</updated>
+        <published>2021-03-25T12:09:30+08:00</published>
+
+
+
+
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></content>
+        <rdf:type rdf:resource="leap2:resource"/>
+        <mahara:artefactplugin mahara:type="image" mahara:plugin="file"/>
+        <link rel="enclosure" type="image/jpeg" href="export_info/files/244855-add_photo_here_custom_lapel_pin-rb625e03288644f459162b68ec4549f89_zwdkn_540.jpg"/>
+        <link rel="leap2:is_part_of" href="portfolio:view276643"/>
+
+
+        <category term="Offline" scheme="categories:resource_type#" label="File"/>
+
+
+
+
+    </entry>
+
+
+</feed>

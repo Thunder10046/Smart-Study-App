@@ -1,0 +1,125 @@
+*{
+    font-family: Trebuchet MS (sans-serif);
+    margin: 0px;
+
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+    color: white;
+    margin-bottom: 30px;
+}
+
+
+.header{
+    height: 145px;
+    background-color: #fed952;
+    position: fixed; 
+    top: 0;
+    width: 100%;
+}
+
+
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    color: white;
+    
+
+}
+
+.Name_of_company{
+    font-size: 38px;
+    font-weight: 700;
+    margin-left: 25px;
+    margin-top: 5px;
+}
+
+.menu{
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+
+
+/* .menu_box{
+    border: 1px solid white;
+    border-radius: 0.5rem;
+    border-left: 1px;
+    height: 90px;
+    width: 60%;
+} */
+
+.container{
+    height: 95vh;
+    display: flex;
+    flex-direction: column;
+    width: 95vw;
+    padding: 40px;
+    align-items: center;
+    justify-content: center;
+    color: rgba(67, 91, 126, 0.641);
+
+}
+
+
+.img{
+    height: 300px;
+    width: 300px;
+}
+
+
+.btn{
+    font-size: 18px;
+    margin-top: 20px;
+    color: white;
+    font-weight: 700;
+    height: 45px;
+    width: 600px;
+    background-color: #fed952;
+    border-radius: 0.25rem;
+}
+
+.btn:hover{
+    color:  rgba(67, 91, 126, 0.641);
+    background-color: #fed952;
+    cursor: pointer;
+}
+
+
+.Nav_about_us{
+    color: white;
+    text-decoration: none;
+}
+
+.Nav_about_us:hover{
+    color: rgba(67, 91, 126, 0.641) ;
+}
+
+.Nav_home{
+    color: white;
+    text-decoration: none;
+}
+
+.Nav_home:hover{
+    color: rgba(67, 91, 126, 0.641) ;
+}
+
+.Nav_shop{
+    color: white;
+    text-decoration: none;
+}
+
+.Nav_shop:hover{
+    color: rgba(67, 91, 126, 0.641) ;
+}
+
+
+

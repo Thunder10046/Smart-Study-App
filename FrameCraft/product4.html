@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="product1.css" />
+    <title>Panasonic AG-HPX600PJ | FrameCraft</title>
+</head>
+<body>
+    <header class="header">
+      <div class="navbar">
+        <span class="Name_of_company">FrameCraft</span>
+        <div class="menu">
+          <a href="index.htm" class="Nav_home">Home</a>
+          <a href="Shop.html" class="Nav_shop">Shop</span>
+          <a href="AboutUs.html" class="Nav_about_us">About Us</a>
+          <a href="Cart.html" class="Nav_about_us">Cart</a>
+        </div>
+      </div>
+    </header>
+
+    <div class="grid-container">
+      <div class="grid_item1 box_abt">
+        <h1>Panasonic AG-HPX600PJ</h1>
+        <p>
+          The Panasonic AG-HPX600PJ is a professional shoulder-mounted camcorder with a 2/3-inch 2.2MP 3-MOS sensor and AVC-Intra recording capabilities.
+        </p>
+        <br>
+        <p>
+            $12000
+        </p>
+        <br>
+        <button class="add_to_cart" type="button" id="add_to_cart_btn">Add to Cart</button>
+      </div>
+      <div class="grid_item2">
+        <div class="ceo box">
+            <div class="ceo_img" style="background-image: url('product_6.png');"></div>
+            <h2>Product Details</h2>
+            <p>
+              The Panasonic AG-HPX600PJ is a professional shoulder-mounted camcorder with a 2/3-inch 2.2MP 3-MOS sensor and AVC-Intra recording capabilities. It features a 16-bit A/D converter, a 20-bit DSP, and a 14-bit digital processing. The camcorder is compatible with P2 cards, and is ideal for broadcast, sports, and documentary production.
+
+            </p>
+      </div>
+    </div>
+    <script>
+        let btn = document.getElementsByClassName("add_to_cart");
+        for(let i = 0; i < btn.length; i++){
+            btn[i].addEventListener("click", function(){
+                alert("Added to Cart ! Thank you so much for Purchasing !");
+            })
+        }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+      integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <title>Smart Study App</title>
+  </head>
+  <body>
+    <header class="header">
+      <div class="navbar">
+        <span class="Name_of_company">Smart Study App</span>
+      </div>
+      <!-- <div class="menu menu_box">
+        <a href="index.html" class="Nav_home">Home</a>
+        <a href="Shop.html" class="Nav_shop">Timer</a>
+        <a href="AboutUs.html" class="Nav_about_us">Music</a>
+        <a href="Cart.html" class="Nav_about_us">About Us</a>
+      </div> -->
+    </header>
+
+    <div class="grid-container">
+      <div class="grid_item1">
+        <img src="next1.png" alt="Next" class="img" />
+      </div>
+      <div class="grid_item2">
+        <div class="inner">
+            <h3>Welcome To</h3>
+            <h1>Smart Study App</h1>
+             <p>
+          Introducing the Smart Study App, the ultimate tool for students who want to excel in their studies. With its innovative features, the app helps students to stay focused and productive, improve their memory and retention, and enhance their overall learning experience. The Smart Study App is here to assist you every step of the way. So, let's get started and make the most out of your learning journey with the Smart Study App!
+             </p>
+        </div>
+
+        <button class="btn">Next</button>
+
+      </div>
+    </div>
+  </body>
+  
+  <script>
+    const btn = document.querySelector('.btn');
+    btn.addEventListener('click', () => {
+      window.location.href = 'setting1.html';
+    });
+  </script>
+</html>
+

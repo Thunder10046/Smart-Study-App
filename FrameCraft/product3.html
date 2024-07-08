@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="product1.css" />
+    <title>Canon EOS D60 | FrameCraft</title>
+</head>
+<body>
+    <header class="header">
+      <div class="navbar">
+        <span class="Name_of_company">FrameCraft</span>
+        <div class="menu">
+          <a href="index.htm" class="Nav_home">Home</a>
+          <a href="Shop.html" class="Nav_shop">Shop</span>
+          <a href="AboutUs.html" class="Nav_about_us">About Us</a>
+          <a href="Cart.html" class="Nav_about_us">Cart</a>
+        </div>
+      </div>
+    </header>
+
+    <div class="grid-container">
+      <div class="grid_item1 box_abt">
+        <h1>Canon EOS D60</h1>
+        <p>
+          The Canon EOS D60 is a professional-grade camera with a 20.1MP sensor and 4K video recording capabilities.
+        </p>
+        <br>
+        <p>
+            $250
+        </p>
+        <br>
+        <button class="add_to_cart" type="button" id="add_to_cart_btn">Add to Cart</button>
+      </div>
+      <div class="grid_item2">
+        <div class="ceo box">
+            <div class="ceo_img" style="background-image: url('product_1.png');"></div>
+            <h2>Product Details</h2>
+            <p>
+              The Canon EOS D60 is a professional-grade camera with a 20.1MP sensor and 4K video recording capabilities. It features a 3.2-inch LCD touchscreen, built-in Wi-Fi and Bluetooth connectivity, and a 45-point all cross-type AF system. The camera is compatible with EF and EF-S lenses, and comes with an 18-135mm lens. The Canon EOS D60 is ideal for photographers and videographers who need a versatile and high-performance camera for a wide range of applications.
+
+            </p>
+      </div>
+    </div>
+    <script>
+        let btn = document.getElementsByClassName("add_to_cart");
+        for(let i = 0; i < btn.length; i++){
+            btn[i].addEventListener("click", function(){
+                alert("Added to Cart ! Thank you so much for Purchasing !");
+            })
+        }
+    </script>
+  </body>
+</html>
